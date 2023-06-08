@@ -1,0 +1,18 @@
+D:\Dropbox\Projects\MS Visual C sharp2\GodsBlessing\GodsBlessing\bin\Debug\netcoreapp1.1\GodsBlessing.deps.json
+D:\Dropbox\Projects\MS Visual C sharp2\GodsBlessing\GodsBlessing\bin\Debug\netcoreapp1.1\GodsBlessing.runtimeconfig.json
+D:\Dropbox\Projects\MS Visual C sharp2\GodsBlessing\GodsBlessing\bin\Debug\netcoreapp1.1\GodsBlessing.runtimeconfig.dev.json
+D:\Dropbox\Projects\MS Visual C sharp2\GodsBlessing\GodsBlessing\bin\Debug\netcoreapp1.1\GodsBlessing.dll
+D:\Dropbox\Projects\MS Visual C sharp2\GodsBlessing\GodsBlessing\bin\Debug\netcoreapp1.1\GodsBlessing.pdb
+D:\Dropbox\Projects\MS Visual C sharp2\GodsBlessing\GodsBlessing\obj\Debug\netcoreapp1.1\GodsBlessing.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projects\MS Visual C sharp2\GodsBlessing\GodsBlessing\obj\Debug\netcoreapp1.1\GodsBlessing.AssemblyInfo.cs
+D:\Dropbox\Projects\MS Visual C sharp2\GodsBlessing\GodsBlessing\obj\Debug\netcoreapp1.1\GodsBlessing.dll
+D:\Dropbox\Projects\MS Visual C sharp2\GodsBlessing\GodsBlessing\obj\Debug\netcoreapp1.1\GodsBlessing.pdb
+C:\xampp\htdocs\GodsBlessing\GodsBlessing\bin\Debug\netcoreapp1.1\GodsBlessing.deps.json
+C:\xampp\htdocs\GodsBlessing\GodsBlessing\bin\Debug\netcoreapp1.1\GodsBlessing.runtimeconfig.json
+C:\xampp\htdocs\GodsBlessing\GodsBlessing\bin\Debug\netcoreapp1.1\GodsBlessing.runtimeconfig.dev.json
+C:\xampp\htdocs\GodsBlessing\GodsBlessing\bin\Debug\netcoreapp1.1\GodsBlessing.dll
+C:\xampp\htdocs\GodsBlessing\GodsBlessing\bin\Debug\netcoreapp1.1\GodsBlessing.pdb
+C:\xampp\htdocs\GodsBlessing\GodsBlessing\obj\Debug\netcoreapp1.1\GodsBlessing.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\GodsBlessing\GodsBlessing\obj\Debug\netcoreapp1.1\GodsBlessing.AssemblyInfo.cs
+C:\xampp\htdocs\GodsBlessing\GodsBlessing\obj\Debug\netcoreapp1.1\GodsBlessing.dll
+C:\xampp\htdocs\GodsBlessing\GodsBlessing\obj\Debug\netcoreapp1.1\GodsBlessing.pdb
